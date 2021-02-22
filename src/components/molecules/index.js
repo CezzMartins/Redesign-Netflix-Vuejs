@@ -1,0 +1,5 @@
+export {default as Navegation} from './Navegation.vue'
+export {default as SearchBar} from './SearchBar.vue'
+export {default as NavCategories} from './NavCategories.vue'
+export {default as Movies} from './Movies.vue'
+export {default as Tranding} from './Tranding.vue'
