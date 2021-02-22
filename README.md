@@ -1,5 +1,10 @@
-# redesign-netflix
 
+# Redesign Netflix Vuejs
+ Vue js estudo
+
+Estudo feito com base no designer da netflix.
+o Design do site foi feito por : Mohamed Latrach. 
+Aqui esta o seu Portfolio:  https://www.artstation.com/artwork/zAzV1w
 ## Project setup
 ```
 yarn install
